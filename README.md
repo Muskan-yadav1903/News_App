@@ -20,4 +20,4 @@ The News App is a responsive web application that fetches and displays the lates
 
 # Output
 
-![Uploading Screenshot 2024-08-16 214959.png…]()
+![Screenshot 2024-08-16 214959](https://github.com/user-attachments/assets/9fe3235a-92e4-46da-b456-7eac0aae378f)
